@@ -1,14 +1,14 @@
 # Anomaly Detection Using Various ML Models
 
-A hands-on demo repository to **understand how the same anomaly detection strategy performs using different Machine Learning approaches** across time-series data. This project showcases implementations and comparisons of multiple ML models for anomaly detection, helping you observe strengths and limitations of each. :contentReference[oaicite:0]{index=0}
+A hands-on demo repository to **understand how the same anomaly detection strategy performs using different Machine Learning approaches** across time-series data. This project showcases implementations and comparisons of multiple ML models for anomaly detection, helping you observe strengths and limitations of each.
 
 ## 📌 Overview
 
-Anomaly detection (also known as outlier detection) refers to identifying rare items or events that deviate significantly from expected behavior. It’s widely used in domains like cybersecurity, finance, predictive maintenance, and time-series monitoring. :contentReference[oaicite:1]{index=1}
+Anomaly detection (also known as outlier detection) refers to identifying rare items or events that deviate significantly from expected behavior. It’s widely used in domains like cybersecurity, finance, predictive maintenance, and time-series monitoring.
 
 This repository includes:
-- A **Jupyter Notebook** with time-series anomaly detection experiments (`Time_Series ML Model.ipynb`) :contentReference[oaicite:2]{index=2}
-- Code to apply and compare various ML models for finding anomalies :contentReference[oaicite:3]{index=3}
+- A **Jupyter Notebook** with time-series anomaly detection experiments (`Time_Series ML Model.ipynb`)
+- Code to apply and compare various ML models for finding anomalies
 
 ## 🚀 Features
 
@@ -21,8 +21,9 @@ This repository includes:
 ## 📁 Contents
 
 📦 Anomoly-detection-using-various-ML-model
-┣ 📄 README.md
-┣ 📄 Time_Series ML Model.ipynb
+-📄 README.md
+-📄 Time_Series ML Model.ipynb
+
 
 📜 License
 This project is open source — feel free to use and adapt it!
